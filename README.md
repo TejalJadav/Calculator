@@ -3,7 +3,7 @@ Welcome to the Calculator App! This simple yet powerful calculator helps you per
 
 - ## Demo
 - Live Link: https://tejaljadav.github.io/Calculator/
-- 
+  
 ## Features
 - Addition
 - Subtraction
